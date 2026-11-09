@@ -25,6 +25,7 @@ following the [AlgoMaster DSA](https://algomaster.io/learn/dsa/course-introducti
 | 1 | 2026-11-09 | [Swap Two Numbers](https://algomaster.io/learn/dsa/swap-two-numbers) | Easy | Warmup | O(1) / O(1) | [Java](src/main/java/dsa/warmup/variables/SwapTwoNumbers.java) | Arithmetic swap fails when refer to the same memory slot |
 | 2 | 2026-11-09 | [Temperature Converter](https://algomaster.io/learn/dsa/temperature-converter) | Easy | Warmup | O(1) / O(1) | [Java](src/main/java/dsa/warmup/variables/TemperatureConverter.java) | Integer division 9/5 is 1 not 1.8 |
 | 3 | 2026-11-09 | [Convert Seconds to Hours, Minutes, Seconds](https://algomaster.io/learn/dsa/convert-seconds-to-hms) | Easy | Warmup | O(1) / O(1) | [Java](src/main/java/dsa/warmup/variables/ConvertSecondsToHms.java) |  |
+| 4 | 2026-11-09 | [Absolute Value](https://algomaster.io/learn/dsa/absolute-value) | Easy | Warmup | O(1) / O(1) | [Java](src/main/java/dsa/warmup/variables/AbsoluteValue.java) |  |
 
 > 🔁 = needed hints, must redo
 
