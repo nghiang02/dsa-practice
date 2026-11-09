@@ -1,7 +1,7 @@
 package dsa.warmup.variables;
 
 /**
- * Lesson: Swap Two Numbers – https://algomaster.io/learn/dsa/swap-two-numbers – Easy
+ * Lesson: Convert Seconds To Hms – https://algomaster.io/learn/dsa/convert-seconds-to-hms– Easy
  * Test case: totalSeconds = 86399 -> [23,59,59]
  * Approach : divide and take the remainder
  * Note:
