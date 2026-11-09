@@ -17,7 +17,7 @@ following the [AlgoMaster DSA](https://algomaster.io/learn/dsa/course-introducti
 | 5 | Binary Tree, BST, Heap, Intervals, Trie, Greedy | ☐ |
 | 6 | Graphs, Dynamic Programming, Mock Interviews | ☐ |
 
-**Total solved:** 1 (Easy: 1 · Medium: 0 · Hard: 0)
+**Total solved:** 5 (Easy: 5 · Medium: 0 · Hard: 0)
 
 ## Solved Problems
 | # | Date | Problem | Difficulty | Pattern | Time / Space | Code | Notes |
