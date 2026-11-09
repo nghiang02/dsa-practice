@@ -22,7 +22,8 @@ following the [AlgoMaster DSA](https://algomaster.io/learn/dsa/course-introducti
 ## Solved Problems
 | # | Date | Problem | Difficulty | Pattern | Time / Space | Code | Notes |
 |---|---|---|---|---|---|---|---|
-| 1 | 2026-11-09 | [Swap Two Numbers](https://algomaster.io/learn/dsa/swap-two-numbers) | Easy | Warmup | O(1) / O(1) | [Java](src/main/java/dsa/warmup/variables/SwapTwoNumbers.java) | Arithmetic swap fails when i == j |
+| 1 | 2026-11-09 | [Swap Two Numbers](https://algomaster.io/learn/dsa/swap-two-numbers) | Easy | Warmup | O(1) / O(1) | [Java](src/main/java/dsa/warmup/variables/SwapTwoNumbers.java) | Arithmetic swap fails when refer to the same memory slot |
+| 2 | 2026-11-09 | [Temperature Converter](https://algomaster.io/learn/dsa/temperature-converter) | Easy | Warmup | O(1) / O(1) | [Java](src/main/java/dsa/warmup/variables/TemperatureConverter.java) | Integer division 9/5 is 1 not 1.8 |
 
 > 🔁 = needed hints, must redo
 
