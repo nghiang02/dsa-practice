@@ -26,9 +26,6 @@ following the [AlgoMaster DSA](https://algomaster.io/learn/dsa/course-introducti
 
 > 🔁 = needed hints, must redo
 
-## Lessons Learned
-- Swapping with `+`/`-` or XOR sets the element to 0 when both indices are the same → use a temp variable.
-- `int` overflow wraps around silently; `double` loses precision, so never compare `double` values with `==`.
 
 ## How to Run
 Open the project in IntelliJ IDEA and run the `main` method in each file.
