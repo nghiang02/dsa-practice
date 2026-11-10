@@ -17,7 +17,7 @@ following the [AlgoMaster DSA](https://algomaster.io/learn/dsa/course-introducti
 | 5 | Binary Tree, BST, Heap, Intervals, Trie, Greedy | ☐ |
 | 6 | Graphs, Dynamic Programming, Mock Interviews | ☐ |
 
-**Total solved:** 9 (Easy: 9 · Medium: 0 · Hard: 0)
+**Total solved:** 10 (Easy: 10 · Medium: 0 · Hard: 0)
 
 ## Solved Problems
 | # | Date | Problem | Difficulty | Pattern | Time / Space | Code | Notes |
@@ -31,6 +31,7 @@ following the [AlgoMaster DSA](https://algomaster.io/learn/dsa/course-introducti
 | 7 | 2026-11-10 | [Area and Perimeter of Shapes](https://algomaster.io/learn/dsa/area-and-perimeter-of-shapes) | Easy | Warmup | O(1) / O(1) | [Java](src/main/java/dsa/warmup/variables/AreaAndPerimeterOfShapes.java) | Heron's formula for triangle; sqrt of a degenerate triangle can be NaN |
 | 8 | 2026-11-10 | [Even or Odd](https://algomaster.io/learn/dsa/even-or-odd) | Easy | Warmup | O(1) / O(1) | [Java](src/main/java/dsa/warmup/conditionals/EvenOrOdd.java) | Check n % 2 == 0 (safe for negatives); bitwise needs parentheses: (n & 1) == 1 |
 | 9 | 2026-11-10 | [Positive, Negative, or Zero](https://algomaster.io/learn/dsa/positive-negative-or-zero) | Easy | Warmup | O(1) / O(1) | [Java](src/main/java/dsa/warmup/conditionals/PositiveNegativeOrZero.java) |  |
+| 10 | 2026-11-10 | [Leap Year Check](https://algomaster.io/learn/dsa/leap-year-check) | Easy | Warmup | O(1) / O(1) | [Java](src/main/java/dsa/warmup/conditionals/LeapYearCheck.java) | 1900 is not a leap year, 2000 is; return the boolean expression directly |
 
 > 🔁 = needed hints, must redo
 
