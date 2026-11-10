@@ -17,7 +17,7 @@ following the [AlgoMaster DSA](https://algomaster.io/learn/dsa/course-introducti
 | 5 | Binary Tree, BST, Heap, Intervals, Trie, Greedy | ☐ |
 | 6 | Graphs, Dynamic Programming, Mock Interviews | ☐ |
 
-**Total solved:** 11 (Easy: 11 · Medium: 0 · Hard: 0)
+**Total solved:** 12 (Easy: 12 · Medium: 0 · Hard: 0)
 
 ## Solved Problems
 | # | Date | Problem | Difficulty | Pattern | Time / Space | Code | Notes |
@@ -33,6 +33,7 @@ following the [AlgoMaster DSA](https://algomaster.io/learn/dsa/course-introducti
 | 9 | 2026-11-10 | [Positive, Negative, or Zero](https://algomaster.io/learn/dsa/positive-negative-or-zero) | Easy | Warmup | O(1) / O(1) | [Java](src/main/java/dsa/warmup/conditionals/PositiveNegativeOrZero.java) |  |
 | 10 | 2026-11-10 | [Leap Year Check](https://algomaster.io/learn/dsa/leap-year-check) | Easy | Warmup | O(1) / O(1) | [Java](src/main/java/dsa/warmup/conditionals/LeapYearCheck.java) | 1900 is not a leap year, 2000 is; return the boolean expression directly |
 | 11 | 2026-11-10 | [Grade from Marks](https://algomaster.io/learn/dsa/grade-from-marks) | Easy | Warmup | O(1) / O(1) | [Java](src/main/java/dsa/warmup/conditionals/GradeFromMarks.java) | Check thresholds from high to low so each `>=` only needs one bound |
+| 12 | 2026-11-10 | [Valid Triangle from Three Sides](https://algomaster.io/learn/dsa/valid-triangle-from-three-sides) | Easy | Warmup | O(1) / O(1) | [Java](src/main/java/dsa/warmup/conditionals/ValidTriangle.java) | Strict `>`; compare doubles with EPS (0.1 + 0.2 > 0.3 is true) |
 
 > 🔁 = needed hints, must redo
 
