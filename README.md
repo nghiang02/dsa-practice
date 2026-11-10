@@ -17,7 +17,7 @@ following the [AlgoMaster DSA](https://algomaster.io/learn/dsa/course-introducti
 | 5 | Binary Tree, BST, Heap, Intervals, Trie, Greedy | ☐ |
 | 6 | Graphs, Dynamic Programming, Mock Interviews | ☐ |
 
-**Total solved:** 6 (Easy: 6 · Medium: 0 · Hard: 0)
+**Total solved:** 7 (Easy: 7 · Medium: 0 · Hard: 0)
 
 ## Solved Problems
 | # | Date | Problem | Difficulty | Pattern | Time / Space | Code | Notes |
@@ -28,6 +28,7 @@ following the [AlgoMaster DSA](https://algomaster.io/learn/dsa/course-introducti
 | 4 | 2026-11-09 | [Absolute Value](https://algomaster.io/learn/dsa/absolute-value) | Easy | Warmup | O(1) / O(1) | [Java](src/main/java/dsa/warmup/variables/AbsoluteValue.java) |  |
 | 5 | 2026-11-09 | [Quotient and Remainder ](https://algomaster.io/learn/dsa/quotient-and-remainder) | Easy | Warmup | O(1) / O(1) | [Java](src/main/java/dsa/warmup/variables/QuotientAndRemainder.java) | n % 2 == 1 fail when n is negative |
 | 6 | 2026-11-10 | [Simple and Compound Interest](https://algomaster.io/learn/dsa/simple-and-compound-interest) | Easy | Warmup | O(time) / O(1) | [Java](src/main/java/dsa/warmup/variables/SimpleAndCompoundInterest.java) | rate is a %, divide by 100.0; Math.pow makes it O(1) |
+| 7 | 2026-11-10 | [Area and Perimeter of Shapes](https://algomaster.io/learn/dsa/area-and-perimeter-of-shapes) | Easy | Warmup | O(1) / O(1) | [Java](src/main/java/dsa/warmup/variables/AreaAndPerimeterOfShapes.java) | Heron's formula for triangle; sqrt of a degenerate triangle can be NaN |
 
 > 🔁 = needed hints, must redo
 
